@@ -1,0 +1,18 @@
+h1 {
+    background-color:violet;
+}
+
+a:hover{
+    color: purple;
+}
+
+p {
+    border-style: dashed;
+    border-width: 10px;
+    border-color: brown;
+    border-radius: 5px;
+}
+
+h2 #segundo{
+    text-align: center;
+}
